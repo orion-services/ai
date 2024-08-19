@@ -129,14 +129,14 @@ recomendação.
 
 No desenvolvimento web, Python é altamente valorizado por sua rapidez e eficiência.
 Frameworks como **Django** e **Flask** permitem a criação de aplicações Web robustas
-e escaláveis. Python é utilizado tanto no desenvolvimento de back-end quanto no
-desenvolvimento full-stack, sendo popular em startups e grandes empresas como
+e escaláveis. Python é utilizado tanto no desenvolvimento de _back-end_ quanto no
+desenvolvimento _full-stack_, sendo popular em startups e grandes empresas como
 **Instagram** e **Spotify**.
 
 ### **4. Automação e Scripting**
 
 Python é frequentemente usado para automatizar tarefas repetitivas, como
-manipulação de arquivos, scraping de dados da web e automação de processos de TI.
+manipulação de arquivos, _scraping_ de dados da Web e automação de processos de TI.
 Ferramentas como **Selenium** permitem a automação de testes de software, enquanto
 scripts Python podem ser usados para gerenciar servidores, realizar backups
 automáticos e muito mais.
@@ -160,15 +160,13 @@ desenvolvimento de aplicações médicas e sistemas de diagnóstico.
 
 Python é amplamente utilizado em educação devido à sua simplicidade e fácil
 aprendizado. Muitas escolas e universidades usam Python para ensinar programação,
-matemática, e ciência da computação. Além disso, plataformas de educação online
-como **Coursera** e **edX** oferecem cursos em Python, reforçando sua importância
-como uma linguagem de ensino.
+matemática, e ciência da computação.
 
 ## Comparação com Outras Linguagens de Programação (Java, C++, JavaScript)
 
 Python é frequentemente comparado a outras linguagens de programação populares,
 como Java, C++, e JavaScript, cada uma com suas próprias características, pontos
-fortes e fracos. Aqui está uma análise comparativa:
+fortes e fracos. Assim, a seguir faremos uma breve análise comparativa:
 
 ### **Python vs. C++**
 
@@ -180,15 +178,15 @@ sintaxe limpa e menos propensa a erros.
 
 **Desempenho:**
 C++ supera Python em termos de desempenho bruto, especialmente em aplicações que
-exigem processamento intensivo, como jogos e sistemas embutidos. Python, apesar
+exigem processamento intensivo, como jogos e sistemas embarcados. Python, apesar
 de ser mais lento, pode ser usado junto com C++ em áreas críticas de performance,
-usando bindings como **Cython** ou **Boost.Python**.
+usando _bindings_ como **Cython** ou **Boost.Python**.
 
 **Flexibilidade:**
 Python é mais flexível e fácil de usar para desenvolvimento rápido, enquanto C++
-é a escolha certa quando o controle detalhado sobre os recursos do sistema é
-necessário. C++ é comum em aplicações que exigem alta performance, como motores
-de jogos, sistemas operacionais e software de tempo real.
+é a melhor escolha quando for necessário um controle detalhado sobre os recursos
+de um sistema. C++ é comum em aplicações que exigem alta performance, como
+motores de jogos, sistemas operacionais e software de tempo real.
 
 ### **Python vs. Java**
 
@@ -200,8 +198,8 @@ declarações de tipos e modificadores de acesso.
 
 **Desempenho:**
 Java tende a ser mais rápido em execução do que Python, graças à compilação em
-bytecode e à otimização pelo JVM (Java Virtual Machine). Python é interpretado, o
-que geralmente o torna mais lento, embora otimizações e o uso de compiladores
+_bytecode_ e à otimização pelo JVM (Java Virtual Machine). Python é interpretado,
+o que geralmente o torna mais lento, embora otimizações e o uso de compiladores
 como PyPy possam melhorar sua performance.
 
 **Usabilidade:**
@@ -214,38 +212,23 @@ Android, enquanto Python domina em ciência de dados, automação e IA.
 
 **Uso Principal:**
 Python é uma linguagem de uso geral, com forte presença em _back-end_, ciência de
-dados, e automação. JavaScript, em contraste, é a linguagem padrão para
-desenvolvimento front-end web, rodando diretamente no navegador. No entanto, com
-a chegada do **Node.js**, JavaScript também se tornou uma opção popular para
+dados e automação. Por outro lado, JavaScript é a linguagem padrão para
+desenvolvimento _front-end_ Web, rodando diretamente no navegador. No entanto,
+com a chegada do **Node.js**, JavaScript também se tornou uma boa opção para
 _back-end_.
 
 **Sintaxe e Paradigmas:**
 Python adota uma sintaxe mais tradicional e é multi-paradigma, suportando
 programação orientada a objetos, funcional, e procedural. JavaScript,
-originalmente uma linguagem de script, evoluiu para suportar também esses
-paradigmas, mas sua herança prototípica e algumas peculiaridades de design, como
-o manejo de `this`, podem ser confusas para iniciantes.
-
-**Para saber mais - programação funcional:**
-A programação funcional é um estilo de programação onde você foca em criar
-funções que transformam dados de maneira previsível, sem modificar os dados
-originais. Imagine que você está fazendo uma salada de frutas: em vez de cortar
-todas as frutas na mesma tigela e misturar, você corta cada fruta separadamente
-e as combina no final. Assim, cada passo é independente e não altera as frutas
-originais.
-
-Na programação funcional, cada função faz uma tarefa específica, como cortar uma
-fruta, e devolve um novo resultado sem mudar o que estava lá antes. Isso torna
-o código mais fácil de entender, porque cada função faz exatamente o que foi
-programada para fazer, sem surpresas. Linguagens como Haskell, Lisp e Python
-suportam esse estilo com ferramentas que permitem transformar e processar dados
-de maneira clara e organizada.
+originalmente uma linguagem de _script_, evoluiu para suportar também esses
+paradigmas, mas algumas peculiaridades de design podem ser bem confusas para
+iniciantes.
 
 **Ecossistema e Ferramentas:**
 Python tem um rico ecossistema de bibliotecas para diversas áreas, enquanto
-JavaScript domina o desenvolvimento web com frameworks como **React**,
-**Angular**, e **Vue.js**. Python é preferido fora do ambiente web, enquanto
-JavaScript é indispensável para qualquer desenvolvedor web.
+JavaScript domina o desenvolvimento Web com _frameworks_ como **React**,
+**Angular**, e **Vue.js**. Python é preferido fora do ambiente Web, enquanto
+JavaScript é indispensável para qualquer desenvolvedor Web.
 
 ## Instalando Python no Windows, macOS ou Linux
 
@@ -255,27 +238,27 @@ macOS e Linux.
 
 ### **Instalando no Windows**
 
-1. **Baixar o Python**: Acesse o site oficial do Python (python.org) e baixe a
-   versão mais recente. Escolha o instalador para Windows.
-2. **Executar o Instalador**: Durante a instalação, marque a opção "Add Python to
-   PATH" para facilitar o uso do Python no terminal. Clique em "Install Now" e
-   siga as instruções na tela.
+1. **Baixe o Python**: Acesse o site oficial do [Python](https://python.org) e
+   baixe a versão mais recente. Escolha o instalador para Windows.
+2. **Execute o Instalador**: Durante a instalação, marque a opção "Add Python
+   to PATH" para facilitar o uso do Python no terminal. Clique em "Install Now"
+   e siga as instruções na tela.
 3. **Verificação**: Abra o Prompt de Comando e digite `python --version` para
    verificar se a instalação foi bem-sucedida.
 
 ### **Instalando no macOS**
 
-1. **Usar o Homebrew (opção recomendada)**: Se você tem o Homebrew instalado,
+1. **Use o Homebrew (opção recomendada)**: Se você tem o Homebrew instalado,
    abra o Terminal e digite `brew install python`. Isso instalará a versão mais
    recente do Python.
-2. **Baixar do site**: Alternativamente, você pode baixar o instalador do site
+2. **Baixe do site**: Alternativamente, você pode baixar o instalador do site
    oficial do Python. Execute o instalador e siga as instruções.
 3. **Verificação**: No Terminal, digite `python3 --version` para confirmar a
    instalação.
 
 ### **Instalando no Linux**
 
-1. **Usar o Gerenciador de Pacotes**: A maioria das distribuições Linux já vem
+1. **Use o Gerenciador de Pacotes**: A maioria das distribuições Linux já vem
    com Python instalado. Para garantir que você tem a versão mais recente, abra o
    terminal e digite `sudo apt-get install python3` (para distribuições baseadas
    em Debian/Ubuntu) ou `sudo yum install python3` (para Red Hat/Fedora).
@@ -290,8 +273,9 @@ com Python:
 
 ### **1. Instalar o VS Code**
 
-- Baixe o VS Code no [site oficial](https://code.visualstudio.com/) e instale-o em seu
-  sistema operacional (Windows, macOS ou Linux). A instalação é simples e direta.
+- Baixe o VS Code no [site oficial](https://code.visualstudio.com/) e instale-o
+  em seu sistema operacional (Windows, macOS ou Linux). A instalação é simples
+  e direta.
 
 ### **2. Instalar a Extensão Python**
 
@@ -306,12 +290,14 @@ com Python:
   abrir a paleta de comandos, digite "Python: Select Interpreter" e escolha a
   versão do Python instalada em sua máquina.
 - Se você usa um ambiente virtual, certifique-se de ativá-lo antes de iniciar o
-  VS Code, ou configure o caminho do interpretador no arquivo `.vscode/settings.json`.
+  VS Code, ou configure o caminho do interpretador no arquivo
+  `.vscode/settings.json`. **Nota:** veremos como criar ambientes virtuais mais
+  adiante neste documento.
 
 ### **4. Instalar o Linting e Formatação**
 
-- O VS Code oferece suporte a linting (análise de código) e formatação. Para
-  habilitar o linting, certifique-se de que o `pylint` ou outro linter esteja
+- O VS Code oferece suporte a _linting_ (análise de código) e formatação. Para
+  habilitar o _linting_, certifique-se de que o `pylint` ou outro linter esteja
   instalado (`pip install pylint`).
 - Para formatação automática, instale o `autopep8` ou `black` (`pip install black`
   ou `pip install autopep8`) e configure a formatação na extensão Python.
@@ -324,9 +310,9 @@ com Python:
 
 ### **6. Testar a Configuração**
 
-- Crie um arquivo `hello.py` e adicione `print("Hello, Python!")`. Execute o código
-  usando `F5` ou clicando em "Run Python File" na barra superior. Se tudo estiver
-  configurado corretamente, você verá a saída no terminal integrado.
+- Crie um arquivo `hello.py` e adicione `print("Hello, Python!")`. Execute o
+  código usando `F5` ou clicando em "Run Python File" na barra superior. Se tudo
+  estiver configurado corretamente, você verá a saída no terminal integrado.
 
 ## Configurando um Ambiente Virtual com `venv` ou `virtualenv`
 
@@ -416,13 +402,15 @@ na tela. Vamos ver como fazer isso em diferentes sistemas operacionais.
 2. **Navegue até o local do arquivo:**
    - Use o comando `cd` para mudar para a pasta onde o arquivo `hello.py` foi
      salvo. Por exemplo:
+
      ```cmd
      cd Desktop
      ```
 
 3. **Execute o script:**
    - Digite `python hello.py` e pressione `Enter`. Você verá a mensagem:
-     ```
+
+     ```text
      Hello, World!
      ```
 
@@ -434,6 +422,7 @@ na tela. Vamos ver como fazer isso em diferentes sistemas operacionais.
 
 2. **Navegue até o local do arquivo:**
    - Use o comando `cd` para acessar a pasta onde o arquivo `hello.py` está salvo:
+
      ```bash
      cd Desktop
      ```
@@ -497,10 +486,13 @@ explicativo em um único documento.
 **Como instalar:**
 
 - Primeiro, instale o Jupyter usando `pip`:
+
   ```bash
   pip install notebook
   ```
+
 - Depois, inicie o Jupyter Notebook no terminal com o comando:
+
   ```bash
   jupyter notebook
   ```
@@ -510,7 +502,8 @@ explicativo em um único documento.
 - Quando você inicia o Jupyter, ele abre uma interface no navegador, mostrando um
   painel onde você pode criar e gerenciar notebooks.
 - Um notebook é composto de células, que podem conter código Python ou texto em
-  Markdown. Para executar o código em uma célula, pressione `Shift + Enter`.
+  [Markdown](https://www.markdownguide.org). Para executar o código em uma
+  célula, pressione `Shift + Enter`.
 - Você pode adicionar gráficos, tabelas e visualizações diretamente no notebook,
   tornando-o ideal para análises de dados e experimentos.
 
@@ -530,9 +523,9 @@ precisa entender ao começar a programar em Python.
 
 ### **1. Indentação**
 
-Diferente de muitas outras linguagens, Python usa a indentação para definir blocos
-de código. Isso significa que o espaçamento no início de uma linha é importante e
-não pode ser ignorado.
+Diferente de muitas outras linguagens, Python usa a indentação para definir
+blocos de código. Isso significa que o espaçamento no início de uma linha é
+importante e não pode ser ignorado.
 
 **Exemplo:**
 
@@ -559,9 +552,10 @@ usados para explicar o código, facilitando a leitura e a manutenção.
   print("Hello, World!")
   ```
 
-- **Comentário de múltiplas linhas:** Embora Python não tenha um símbolo específico
-  para comentários de múltiplas linhas, você pode usar `#` no início de cada linha
-  ou usar strings de múltiplas linhas (entre `"""`) para o mesmo efeito:
+- **Comentário de múltiplas linhas:** Embora Python não tenha um símbolo
+  específico para comentários de múltiplas linhas, você pode usar `#` no início
+  de cada linha ou usar strings de múltiplas linhas (entre `"""`) para o mesmo
+  efeito:
 
   ```python
   """
@@ -573,9 +567,9 @@ usados para explicar o código, facilitando a leitura e a manutenção.
 
 ### **3. Variáveis**
 
-Variáveis são usadas para armazenar valores que podem ser reutilizados e manipulados
-ao longo do código. Em Python, você não precisa declarar o tipo da variável, pois
-Python é uma linguagem de tipagem dinâmica.
+Variáveis são usadas para armazenar valores que podem ser reutilizados e
+manipulado ao longo do código. Em Python, você não precisa declarar o tipo da
+variável, pois Python é uma linguagem de tipagem dinâmica.
 
 **Como definir variáveis:**
 
@@ -599,9 +593,10 @@ altura = 1.75
   - **Strings:** Texto (`nome = "João"`)
   - **Booleanos:** Verdadeiro ou falso (`verdadeiro = True`)
 
-**Práticas:**
-- Escrever e executar um script Python que imprime "Hello, World!".
-- Criar variáveis de diferentes tipos (inteiro, float, string, booleano) e
+**Agora é a sua vez:**
+
+- Escreva e execute um programa em Python que imprima a palavra "Hello, World!".
+- Cre variáveis de diferentes tipos (inteiro, float, string, booleano) e
   exibir seus valores e tipos no terminal.
 
   <center>
