@@ -1,6 +1,7 @@
-remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
 
-favicon_ico: "/imgs/favicon.png"
+logo: "/assets/images/logo.png"
+favicon_ico: "/assets/images/favicon.png"
 
 aux_links:
   "Github":
