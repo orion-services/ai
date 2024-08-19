@@ -535,6 +535,7 @@ de código. Isso significa que o espaçamento no início de uma linha é importa
 não pode ser ignorado.
 
 **Exemplo:**
+
 ```python
 if 5 > 2:
     print("Cinco é maior que dois")
@@ -552,6 +553,7 @@ usados para explicar o código, facilitando a leitura e a manutenção.
 **Como usar:**
 
 - **Comentário de linha única:** Começa com o símbolo `#`.
+
   ```python
   # Este é um comentário em Python
   print("Hello, World!")
@@ -597,15 +599,14 @@ altura = 1.75
   - **Strings:** Texto (`nome = "João"`)
   - **Booleanos:** Verdadeiro ou falso (`verdadeiro = True`)
 
-
 **Práticas:**
 - Escrever e executar um script Python que imprime "Hello, World!".
 - Criar variáveis de diferentes tipos (inteiro, float, string, booleano) e
   exibir seus valores e tipos no terminal.
 
   <center>
-    <a href="https://rpmhub.dev" target="blanck">
-      <img src="../assets/images/logo.png" alt="Rodrigo Prestes Machado" width="3%"
+    <a href="https://orion-services.dev" target="blanck">
+      <img src="../assets/images/logo.png" alt="Orion Services" width="3%"
       height="3%" border=0 style="border:0; text-decoration:none; outline:none">
     </a>
     <br/>

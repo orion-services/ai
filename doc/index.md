@@ -10,8 +10,8 @@ Este é um repositório de estudos sobre Inteligência Artificial com Python. Aq
 você encontrará códigos, tutoriais e artigos sobre o assunto.
 
 <center>
-  <a href="https://rpmhub.dev" target="blanck">
-    <img src="assets/images/logo.png" alt="Rodrigo Prestes Machado" width="3%"
+  <a href="https://orion-services.dev" target="blanck">
+    <img src="assets/images/logo.png" alt="Orion Services" width="3%"
     height="3%" border=0 style="border:0; text-decoration:none; outline:none">
   </a>
   <br/>
