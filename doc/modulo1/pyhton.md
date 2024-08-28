@@ -596,7 +596,7 @@ altura = 1.75
 **Agora é a sua vez:**
 
 - Escreva e execute um programa em Python que imprima a palavra "Hello, World!".
-- Cre variáveis de diferentes tipos (inteiro, float, string, booleano) e
+- Crie variáveis de diferentes tipos (inteiro, float, string, booleano) e
   exibir seus valores e tipos no terminal.
 
   <center>
