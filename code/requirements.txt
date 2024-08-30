@@ -1,4 +1,0 @@
-markdown2
-beautifulsoup4
-chromadb
-sentence-transformers
